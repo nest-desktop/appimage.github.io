@@ -7,7 +7,7 @@ Icon=nest-desktop
 StartupWMClass=nest-desktop
 X-AppImage-Version=4.0.0
 Comment=NEST Desktop is a web-based GUI for NEST Simulator and other simulators of spiking networks.
-Categories=Education;Science;
+Categories=Science;
 
 [AppImageHub]
 # Dear upstream developer, please include update information in your AppImage
